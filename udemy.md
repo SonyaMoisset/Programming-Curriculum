@@ -1,0 +1,14 @@
+# UDEMY
+- Learn JavaScript from Scratch in 1.5 hr
+- Learn jQuery
+- Short and Sweet: Get Started with Git and Github Right Now
+- Command Line Essentials: Git Bash for Windows
+- JavaScript quick beginner introduction
+- Introduction to Sass for CSS
+- Learn JavaScript from scratch
+- Web Development Fundamentals Using JavaScript
+- Web Development Introduction HTML to HTML5
+- Building a Portfolio in 90 minutes ( HTML, CSS, JS)
+- JavaScript Fundamentals Bootcamp Learn how to use JavaScript
+- JavaScript Basics Web Development Building Blocks
+- Build Your First Website in 1 Week with HTML5 and CSS3
