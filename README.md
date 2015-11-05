@@ -10,3 +10,7 @@ Index of resources I used
 
 ##[FREECODECAMP](https://github.com/SonyaMoisset/curriculum/blob/master/freecodecamp.md)
 - Total points: 508
+
+##[UDACITY](https://github.com/SonyaMoisset/curriculum/blob/master/udacity.md)
+
+##[UDEMY](https://github.com/SonyaMoisset/curriculum/blob/master/udemy.md)
