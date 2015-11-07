@@ -5,8 +5,8 @@ Index of resources I used
 
 ###[CODECADEMY](https://github.com/SonyaMoisset/curriculum/blob/master/codecademy.md)
 - Skills completed: 12
-- Badges: 176
-- Total points: 1953
+- Badges: 180
+- Total points: 1979
 
 ###[CODESCHOOL](https://github.com/SonyaMoisset/curriculum/blob/master/codeSchool.md)
 
