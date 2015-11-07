@@ -28,10 +28,11 @@
 - L2: Units. Formats, Environments
 - L3: Images with Markup
 
-##Intro to Computer Science
+##Intro to Computer Science ...
 - L1: How to Get Started
 - PSet1
 - Q&A1
+- L2: How to Repeat
 
 ##Make Your Own 2048
 - L1: Make Your Game with HTML & CSS
