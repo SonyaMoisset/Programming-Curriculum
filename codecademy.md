@@ -1,151 +1,154 @@
 # CODECADEMY
 ##HTML & CSS
-- Introduction to HML<br>
-- HTML Structure: Using lists<br>
-- HTML Structure: Tables, Divs, and Spans<br>
-- Introduction to CSS<br>
-- CSS classes and IDs<br>
-- CSS element positioning<br>
+- Introduction to HML
+- HTML Structure: Using lists
+- HTML Structure: Tables, Divs, and Spans
+- Introduction to CSS
+- CSS classes and IDs
+- CSS element positioning
 
 ##Make a Website
-- Structure your page<br>
-- Style your text<br>
-- Style your elements<br>
-- Organize your page<br>
-- Kickstart your web page<br>
+- Structure your page
+- Style your text
+- Style your elements
+- Organize your page
+- Kickstart your web page
 
 ##Make an Interactive Website
-- Your first program<br>
-- JavaScript<br>
-- Events<br>
-- DOM manipulation<br>
-- Effects<br>
+- Your first program
+- JavaScript
+- Events
+- DOM manipulation
+- Effects
 
 ##HTML & CSS Projects
-- Broadway<br>
-- Innovation Cloud<br>
-- MOVE<br>
-- Shutterbugg<br>
-- Red Eye Photography<br>
-- BestBite<br>
-- Junction<br>
-- Adoptly<br>
-- Headlines<br>
-- Excursion<br>
-- Pocketbook<br>
-- Bolt Network<br>
-- Bass<br>
-- Armando Perez<br>
-- Newsroom<br>
+- Broadway
+- Innovation Cloud
+- MOVE
+- Shutterbugg
+- Red Eye Photography
+- BestBite
+- Junction
+- Adoptly
+- Headlines
+- Excursion
+- Pocketbook
+- Bolt Network
+- Bass
+- Armando Perez
+- Newsroom
 
 ## Javascript
-- Introduction<br>
-- Functions<br>
-- 'For' loops in JavaScript<br>
-- 'While' loops in JavaScript<br>
-- Control Flow<br>
-- Data Structures<br>
-- Objects I<br>
-- Objects II<br>
+- Introduction
+- Functions
+- 'For' loops in JavaScript
+- 'While' loops in JavaScript
+- Control Flow
+- Data Structures
+- Objects I
+- Objects II
 
 ##Web Projects
-- CSS buttons<br>
-- Web form<br>
-- Date picker<br>
-- Checking Input<br>
-- Draw with JavaScript<br>
+- CSS buttons
+- Web form
+- Date picker
+- Checking Input
+- Draw with JavaScript
 
 ##jQuery
-- Introducing jQuery<br>
-- jQuery functions<br>
-- Dynamic HTML<br>
-- jQuery events<br>
-- jquery effects<br>
+- Introducing jQuery
+- jQuery functions
+- Dynamic HTML
+- jQuery events
+- jquery effects
 
 ##jQuery Projects
-- Bonsai<br>
-- Pocketbook<br>
-- Threadly<br>
-- Forecast<br>
-- Armando Perez<br>
-- ListEasy<br>
-- Birdman<br>
-- Feedster<br>
-- Gameboard<br>
-- MOVE<br>
-- SpeakEasy<br>
-- Milford School<br>
-- Madison Square Market<br>
-- MOVE Gear<br>
+- Bonsai
+- Pocketbook
+- Threadly
+- Forecast
+- Armando Perez
+- ListEasy
+- Birdman
+- Feedster
+- Gameboard
+- MOVE
+- SpeakEasy
+- Milford School
+- Madison Square Market
+- MOVE Gear
 
 ##Learn AngularJS
-- Your first app<br>
-- Directives<br>
-- Services<br>
-- Routing<br>
+- Your first app
+- Directives
+- Services
+- Routing
 
 ##AngularJS Projects
-- Bolt Network 1<br>
-- Pizza Planet<br>
-- MOVE Log<br>
-- Bolt Network 2<br>
-- Gameboard<br>
-- Feedster<br>
-- Outbox 1<br>
-- Top 10<br>
-- Outbox 2<br>
+- Bolt Network 1
+- Pizza Planet
+- MOVE Log
+- Bolt Network 2
+- Gameboard
+- Feedster
+- Outbox 1
+- Top 10
+- Outbox 2
 
 ##PHP
-- Welcome to PHP<br>
-- Control flow: If/Else<br>
-- Control flow: Switch<br>
-- Arrays in PHP<br>
-- Loops: For and Foreach<br>
-- Loops: While and Do-While<br>
-- Functions in PHP, Part I<br>
-- Functions in PHP, Part II<br>
-- Object-Oriented Programming, Part I<br>
-- Object-Oriented Programming, Part II<br>
-- Advanced arrays and maps<br>
+- Welcome to PHP
+- Control flow: If/Else
+- Control flow: Switch
+- Arrays in PHP
+- Loops: For and Foreach
+- Loops: While and Do-While
+- Functions in PHP, Part I
+- Functions in PHP, Part II
+- Object-Oriented Programming, Part I
+- Object-Oriented Programming, Part II
+- Advanced arrays and maps
 
 ##Python
-- Python Syntax<br>
-- Strings and Console Output<br>
-- Conditionals and Control Flow<br>
-- Functions<br>
-- Lists & Dictionaries<br>
-- Student becomes the teacher<br>
-- Lists and Functions<br>
+- Python Syntax
+- Strings and Console Output
+- Conditionals and Control Flow
+- Functions
+- Lists & Dictionaries
+- Student becomes the teacher
+- Lists and Functions
 
 ##Ruby
-- Introduction to Ruby<br>
-- Control flow in Ruby<br>
-- Looping with Ruby<br>
-- Arrays and Hashes<br>
-- Blocks and Sorting<br>
-- Hashes and Symbols<br>
-- Refactoring<br>
+- Introduction to Ruby
+- Control flow in Ruby
+- Looping with Ruby
+- Arrays and Hashes
+- Blocks and Sorting
+- Hashes and Symbols
+- Refactoring
 
 ##APIs
-- YouTube API<br>
+- YouTube API
 
 ##Learn the Command Line
-- Navigating the file system<br>
-- Viewing and chancing the file system<br>
-- Redirecting input and output<br>
-- Configuring the environment<br>
+- Navigating the file system
+- Viewing and chancing the file system
+- Redirecting input and output
+- Configuring the environment
 
 ##Learn SQL
-- Manipulation<br>
-- Queries<br>
-- Aggregate functions<br>
-- Multiple tables<br>
+- Manipulation
+- Queries
+- Aggregate functions
+- Multiple tables
 
 ##Learn Java
-- Introduction to Java<br>
-- Conditionas and control flow<br>
-- Objet-oriented Java<br>
-- Data Structures<br>
+- Introduction to Java
+- Conditionas and control flow
+- Objet-oriented Java
+- Data Structures
 
 ##Learn Git
-- Basic Git Workflow<br>
+- Basic Git Workflow
+- How to Backtrack in GIT
+- GIT Branching
+- GIT teamwork
