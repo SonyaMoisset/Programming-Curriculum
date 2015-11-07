@@ -17,7 +17,7 @@ Index of resources I used
 
 ###[UDEMY](https://github.com/SonyaMoisset/curriculum/blob/master/udemy.md)
 
-###ASSEMBLY GENERAL
+###[DASH / GENERAL ASSEMBLY](https://github.com/SonyaMoisset/curriculum/blob/master/dash.md)
 
 ###OTHER WEBSITES
 
