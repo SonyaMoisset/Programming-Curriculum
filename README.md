@@ -20,7 +20,7 @@ Index of resources I used
 ###[DASH / GENERAL ASSEMBLY](https://github.com/SonyaMoisset/curriculum/blob/master/dash.md)
 
 ###MOOC 
-####COURSERA
+####[COURSERA](https://github.com/SonyaMoisset/curriculum/blob/master/coursera.md)
 
 ###OTHER WEBSITES
 
