@@ -21,7 +21,7 @@ Index of resources I used
 
 ###MOOC 
 ####[COURSERA](https://github.com/SonyaMoisset/curriculum/blob/master/coursera.md)
-####EDX
+####[EDX](https://github.com/SonyaMoisset/curriculum/blob/master/edx.md)
 
 ###OTHER WEBSITES
 
