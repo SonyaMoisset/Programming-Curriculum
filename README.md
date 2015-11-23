@@ -24,6 +24,8 @@ Index of resources I used
 ####[EDX](https://github.com/SonyaMoisset/curriculum/blob/master/edx.md)
 
 ###OTHER WEBSITES
+####Scotch
+####Egghead
 
 ##BOOKS
 
