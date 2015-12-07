@@ -4,14 +4,14 @@ Index of resources I used
 ##ONLINE ACADEMIES
 
 ###[CODECADEMY](https://github.com/SonyaMoisset/curriculum/blob/master/codecademy.md)
-- Skills completed: 12
-- Badges: 180
-- Total points: 1979
+- Skills completed: 13
+- Badges: 183
+- Total points: 2007
 
 ###[CODESCHOOL](https://github.com/SonyaMoisset/curriculum/blob/master/codeSchool.md)
 
 ###[FREECODECAMP](https://github.com/SonyaMoisset/curriculum/blob/master/freecodecamp.md)
-- Total points: 595
+- Total points: 597
 
 ###[UDACITY](https://github.com/SonyaMoisset/curriculum/blob/master/udacity.md)
 
