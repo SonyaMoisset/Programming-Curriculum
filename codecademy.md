@@ -1,5 +1,26 @@
 # CODECADEMY
-##HTML & CSS
+- Skills completed: 14
+- Badges: 192
+- Total points: 2045
+
+## Web Developer Skills
+- Make a Website
+- Make an Interactive Website
+- Learn AngularJS
+- Learn the Command Line
+- Learn SQL
+- SQL: Analyzing Business Metrics
+- Learn Java
+- Learn Git
+
+## Language Skills
+- HTML & CSS
+- JavaScript
+- jQuery
+- PHP
+
+#### Skills Details
+#### HTML & CSS
 - Introduction to HML
 - HTML Structure: Using lists
 - HTML Structure: Tables, Divs, and Spans
@@ -7,21 +28,21 @@
 - CSS classes and IDs
 - CSS element positioning
 
-##Make a Website
+#### Make a Website
 - Structure your page
 - Style your text
 - Style your elements
 - Organize your page
 - Kickstart your web page
 
-##Make an Interactive Website
+#### Make an Interactive Website
 - Your first program
 - JavaScript
 - Events
 - DOM manipulation
 - Effects
 
-##HTML & CSS Projects
+#### HTML & CSS Projects
 - Broadway
 - Innovation Cloud
 - MOVE
@@ -38,7 +59,7 @@
 - Armando Perez
 - Newsroom
 
-## Javascript
+#### Javascript
 - Introduction
 - Functions
 - 'For' loops in JavaScript
@@ -48,21 +69,21 @@
 - Objects I
 - Objects II
 
-##Web Projects
+#### Web Projects
 - CSS buttons
 - Web form
 - Date picker
 - Checking Input
 - Draw with JavaScript
 
-##jQuery
+#### jQuery
 - Introducing jQuery
 - jQuery functions
 - Dynamic HTML
 - jQuery events
 - jquery effects
 
-##jQuery Projects
+#### jQuery Projects
 - Bonsai
 - Pocketbook
 - Threadly
@@ -78,13 +99,13 @@
 - Madison Square Market
 - MOVE Gear
 
-##Learn AngularJS
+#### Learn AngularJS
 - Your first app
 - Directives
 - Services
 - Routing
 
-##AngularJS Projects
+#### AngularJS Projects
 - Bolt Network 1
 - Pizza Planet
 - MOVE Log
@@ -95,7 +116,7 @@
 - Top 10
 - Outbox 2
 
-##PHP
+#### PHP
 - Welcome to PHP
 - Control flow: If/Else
 - Control flow: Switch
@@ -108,7 +129,7 @@
 - Object-Oriented Programming, Part II
 - Advanced arrays and maps
 
-##Python
+#### Python
 - Python Syntax
 - Strings and Console Output
 - Conditionals and Control Flow
@@ -117,7 +138,7 @@
 - Student becomes the teacher
 - Lists and Functions
 
-##Ruby
+#### Ruby
 - Introduction to Ruby
 - Control flow in Ruby
 - Looping with Ruby
@@ -125,29 +146,35 @@
 - Blocks and Sorting
 - Hashes and Symbols
 - Refactoring
+- Blocks, Procs, and Lambdas
 
-##APIs
+#### APIs
 - YouTube API
+- SoundCloud API
 
-##Learn the Command Line
+#### Learn the Command Line
 - Navigating the file system
 - Viewing and chancing the file system
 - Redirecting input and output
 - Configuring the environment
 
-##Learn SQL
+#### Learn SQL
 - Manipulation
 - Queries
 - Aggregate functions
 - Multiple tables
 
-##Learn Java
+#### SQL: Analyzing Business Metrics
+- Advanced Aggregates
+- Common Metrics
+
+#### Learn Java
 - Introduction to Java
 - Conditionas and control flow
 - Objet-oriented Java
 - Data Structures
 
-##Learn Git
+#### Learn Git
 - Basic Git Workflow
 - How to Backtrack in GIT
 - GIT Branching
