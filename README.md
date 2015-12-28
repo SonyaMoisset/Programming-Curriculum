@@ -1,34 +1,34 @@
 # Full Stack Web Development Personal Curriculum
-Index of resources I used
+Index of resources I am using
 
-##ONLINE ACADEMIES
+## ONLINE ACADEMIES
 
-###[CODECADEMY](https://github.com/SonyaMoisset/curriculum/blob/master/codecademy.md)
-- Skills completed: 13
-- Badges: 183
-- Total points: 2007
+### [CODECADEMY](https://github.com/SonyaMoisset/curriculum/blob/master/codecademy.md)
+- Skills completed: 14
+- Badges: 192
+- Total points: 2045
 
-###[CODESCHOOL](https://github.com/SonyaMoisset/curriculum/blob/master/codeSchool.md)
+### [CODESCHOOL](https://github.com/SonyaMoisset/curriculum/blob/master/codeSchool.md)
 
-###[FREECODECAMP](https://github.com/SonyaMoisset/curriculum/blob/master/freecodecamp.md)
+### [FREECODECAMP](https://github.com/SonyaMoisset/curriculum/blob/master/freecodecamp.md)
 - Total points: 634
 
-###[UDACITY](https://github.com/SonyaMoisset/curriculum/blob/master/udacity.md)
+### [UDACITY](https://github.com/SonyaMoisset/curriculum/blob/master/udacity.md)
 
-###[UDEMY](https://github.com/SonyaMoisset/curriculum/blob/master/udemy.md)
+### [UDEMY](https://github.com/SonyaMoisset/curriculum/blob/master/udemy.md)
 
-###[DASH / GENERAL ASSEMBLY](https://github.com/SonyaMoisset/curriculum/blob/master/dash.md)
+### [DASH / GENERAL ASSEMBLY](https://github.com/SonyaMoisset/curriculum/blob/master/dash.md)
 
-###MOOC 
-####[COURSERA](https://github.com/SonyaMoisset/curriculum/blob/master/coursera.md)
-####[EDX](https://github.com/SonyaMoisset/curriculum/blob/master/edx.md)
+### MOOC 
+#### [COURSERA](https://github.com/SonyaMoisset/curriculum/blob/master/coursera.md)
+#### [EDX](https://github.com/SonyaMoisset/curriculum/blob/master/edx.md)
 
-###OTHER WEBSITES
-####Scotch
-####Egghead
+### OTHER WEBSITES
+#### Scotch
+#### Egghead
 
-##BOOKS
+## BOOKS
 
-##YOUTUBE VIDEOS/CHANNELS
+## YOUTUBE VIDEOS/CHANNELS
 
-##PROJECTS
+## PROJECTS
