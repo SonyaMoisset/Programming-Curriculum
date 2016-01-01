@@ -11,7 +11,7 @@ Index of resources I am using
 ### [CODESCHOOL](https://github.com/SonyaMoisset/curriculum/blob/master/codeSchool.md)
 
 ### [FREECODECAMP](https://github.com/SonyaMoisset/curriculum/blob/master/freecodecamp.md)
-- Total points: 634
+- Total points: 751
 
 ### [UDACITY](https://github.com/SonyaMoisset/curriculum/blob/master/udacity.md)
 
@@ -19,9 +19,12 @@ Index of resources I am using
 
 ### [DASH / GENERAL ASSEMBLY](https://github.com/SonyaMoisset/curriculum/blob/master/dash.md)
 
-### MOOC 
+### MOOC
 #### [COURSERA](https://github.com/SonyaMoisset/curriculum/blob/master/coursera.md)
+
 #### [EDX](https://github.com/SonyaMoisset/curriculum/blob/master/edx.md)
+- Introduction to Bootstrap
+- Introduction to jQuery
 
 ### OTHER WEBSITES
 #### Scotch
