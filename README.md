@@ -11,7 +11,7 @@ Index of resources I am using
 ### [CODESCHOOL](https://github.com/SonyaMoisset/curriculum/blob/master/codeSchool.md)
 
 ### [FREECODECAMP](https://github.com/SonyaMoisset/curriculum/blob/master/freecodecamp.md)
-- Total points: 751
+- Total points: 774
 
 ### [UDACITY](https://github.com/SonyaMoisset/curriculum/blob/master/udacity.md)
 
