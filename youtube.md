@@ -9,3 +9,4 @@
 - React For Everyone #1 - Getting Started & Understanding React
 - React For Everyone #2 - Our First React Component
 - React For Everyone #3 - React Component Properties
+- React For Everyone #4 - Conditionals In JSX & Parent Child Relationships
