@@ -1,7 +1,7 @@
 # Full Stack Web Development Personal Curriculum
 Index of resources I am using
 
-## ONLINE ACADEMIES
+## A. ONLINE ACADEMIES
 
 ### [CODECADEMY](https://github.com/SonyaMoisset/curriculum/blob/master/codecademy.md)
 - Skills completed: 14
@@ -19,19 +19,21 @@ Index of resources I am using
 
 ### [DASH / GENERAL ASSEMBLY](https://github.com/SonyaMoisset/curriculum/blob/master/dash.md)
 
-### MOOC
+### B.MOOC
 #### [COURSERA](https://github.com/SonyaMoisset/curriculum/blob/master/coursera.md)
+- Emerging Technologies: From Smartphones to IoT to Big Data Specialization | The Yonsei University
+- Code Yourself! An Introduction to Programming | The University of Edinburgh
 
 #### [EDX](https://github.com/SonyaMoisset/curriculum/blob/master/edx.md)
 - Introduction to Bootstrap
 - Introduction to jQuery
 
-### OTHER WEBSITES
-#### Scotch
-#### Egghead
+### C. OTHER WEBSITES
+##### Scotch
+##### Egghead
 
-## BOOKS
+## D. BOOKS
 
-## YOUTUBE VIDEOS/CHANNELS
+## E. YOUTUBE VIDEOS/CHANNELS
 
-## PROJECTS
+## F. PROJECTS
