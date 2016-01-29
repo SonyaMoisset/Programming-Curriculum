@@ -1,30 +1,38 @@
 # CODESCHOOL
+
+## Python Path
+### Python
+##### Try Python | 3 Badges
+- Get started with Python by calculating how many swallows it takes to carry a coconut.
+- Learn how to store characters in a string to combine, dissect, and slice words.
+- Explore conditionals in Python to see how your program can make important decisions.
+
 ## JavaScript Path
 ### JavaScript Language
-JavaScript Road Trip Part I | 3 Badges
+##### JavaScript Road Trip Part I | 3 Badges
 - Learn to manipulate values on the console.
 - Review how to store and use data with variables.
 - Create JS files and source them within HTML code.
 
-JavaScript Road Trip Part II | 1 Badge
+##### JavaScript Road Trip Part II | 1 Badge
 - Understand and build loops for repeated code with 'while' and 'for' syntax.
 
-JavaScript Road Trip Part III | 1 Badge
+##### JavaScript Road Trip Part III | 1 Badge
 - Learn how to use and manipulate functions as expressions.
 
-ES2015: The Shape of JavaScript to Come | 1 Badge
+##### ES2015: The Shape of JavaScript to Come | 1 Badge
 - Learn about the new types of variable declarations and how they can help with some well-known JavaScript gotchas.
 
-JavaScript Best Practices | 1 Badge
+##### JavaScript Best Practices | 1 Badge
 - Discover useful alternate syntax for conditionals and assignment.
 
 ### jQuery
-Try jQuery | 2 Badges
+##### Try jQuery | 2 Badges
 - A gentle introduction to what jQuery is, and what it can do.
 - Search & walk through the DOM with selectors and traversing.
 
 ### Client-side Frameworks
-##### Shaping up with Angular.js | 4 Badges<br>
+##### Shaping up with Angular.js | 4 Badges
 - Get comfortable with expressions by beginning to build a gem store.
 - Use directives to add a gallery and tabs to the gem store.
 - Give the gem store review functionality by using Angular forms.
@@ -34,7 +42,7 @@ Try jQuery | 2 Badges
 - Learn how to create an Ember application, set up your first Handlebars template, and meet the Ember Router.
 
 ### Server-side Frameworks
-Real-time Web with Node.js | 1 Badge
+##### Real-time Web with Node.js | 1 Badge
 - An overview of Node.js, blocking vs. non-blocking code, reading files, issuing requests.
 
 ### CoffeeScript
@@ -44,49 +52,49 @@ CoffeeScript | 1 Badge
 
 ## HTML/CSS Path
 ### Getting Started With HTML and CSS
-Front-end Foundations | 1 Badge
+##### Front-end Foundations | 1 Badge
 - Format text content and links with HTML.
 
-Front-end Formations | 1 Badge
+##### Front-end Formations | 1 Badge
 - Get an overview of HTML5 and CSS3, and learn which HTML elements have been updated in HTML5.
 
 ### Intermediate CSS
-CSS Cross-Country | 1 Badge
+##### CSS Cross-Country | 1 Badge
 - Adding style, selectors, the cascade, and floats.
 
-Journey Into Mobile | 1 Badge
+##### Journey Into Mobile | 1 Badge
 - The mobile web and relative font-sizing.
 
-Adventures in Web Animations | 1 Badge
+##### Adventures in Web Animations | 1 Badge
 - Learn how to sweeten up your web app using CSS transitions for color, position, and visibility.
 
-Unmasking HTML Emails | 1 Badge
+##### Unmasking HTML Emails | 1 Badge
 - Learn the mystifying moves of email client preprocessors and how HTML and CSS is written for them.
 
 ### CSS Preprocessors
-Assembling Sass | 1 Badge
+##### Assembling Sass | 1 Badge
 - An introduction to Sass, imports, comments, and nesting.
 
 ### CSS Frameworks
-Blasting Off with Bootstrap | 1 Badge
+##### Blasting Off with Bootstrap | 1 Badge
 - Get your website off the ground by adding the Bootstrap library and getting familiar with the container class.
 
 ### Design
-Fundamentals of Design | 1 Badge
+##### Fundamentals of Design | 1 Badge
 - Learn to recognize beautiful and functional type.
 
 
 ## Git Path
 ### Git
-Discover Git
+##### Discover Git
 - Discover the basics of Git, including how to initialize a repo. Learn how to add, commit, and push your code to GitHub.
 
 
 ## Electives Path
-Breaking the Ice With Regular Expressions | 1 Badge
+##### Breaking the Ice With Regular Expressions | 1 Badge
 - Learn what regular expressions are, and write your first expression. Discover literals, operators, character sets, modifiers, and metacharacters.
 
-Discover DevTools | 3 Badges
+##### Discover DevTools | 3 Badges
 - Dig into the elements panel, learn how to make changes to the DOM and update styles.
 - New workflows to speed up your development time.
 - Review the DevTools console and learn how to examine exceptions and use timesaving shortcuts.
@@ -94,5 +102,5 @@ Discover DevTools | 3 Badges
 
 ## Database Path
 ### NoSQL
-The Magical Marvels of MongoDB | 1 Badge
+##### The Magical Marvels of MongoDB | 1 Badge
 - Capture the mystical basics of MongoDB and try your hand at inserting and finding documents.
