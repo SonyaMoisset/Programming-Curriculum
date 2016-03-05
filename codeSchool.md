@@ -52,7 +52,7 @@ CoffeeScript | 1 Badge
 
 ## HTML/CSS Path
 ### Getting Started With HTML and CSS
-##### Front-end Foundations | 1 Badge
+##### Front-end Foundations | 5 Badges
 - Format text content and links with HTML.
 
 ##### Front-end Formations | 1 Badge
