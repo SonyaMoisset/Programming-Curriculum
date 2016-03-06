@@ -55,7 +55,7 @@ CoffeeScript | 1 Badge
 ##### Front-end Foundations | 5 Badges
 - Format text content and links with HTML.
 
-##### Front-end Formations | 1 Badge
+##### Front-end Formations | 5 Badge
 - Get an overview of HTML5 and CSS3, and learn which HTML elements have been updated in HTML5.
 
 ### Intermediate CSS
