@@ -28,8 +28,7 @@ Index of resources I am using
 - Introduction to Computer Science | HarvardX CS50x
 - Introduction to Bootstrap | Microsoft DEV203x
 - Introduction to jQuery | Microsoft DEV208x
-
-Introduction to TypeScript | Microsoft DEV201x
+- Introduction to TypeScript | Microsoft DEV201x
 
 ### C. OTHER WEBSITES
 ##### Scotch
