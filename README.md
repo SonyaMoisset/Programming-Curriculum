@@ -25,8 +25,7 @@ Index of resources I am using
 - Code Yourself! An Introduction to Programming | The University of Edinburgh
 
 #### [EDX](https://github.com/SonyaMoisset/curriculum/blob/master/edx.md)
-- Introduction to Bootstrap
-- Introduction to jQuery
+- Introduction to Computer Science | HarvardX CS50x
 
 ### C. OTHER WEBSITES
 ##### Scotch
