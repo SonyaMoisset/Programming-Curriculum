@@ -26,6 +26,7 @@ Index of resources I am using
 
 #### [EDX](https://github.com/SonyaMoisset/curriculum/blob/master/edx.md)
 - Introduction to Computer Science | HarvardX CS50x
+- Introduction to Bootstrap | Microsoft DEV203x
 
 ### C. OTHER WEBSITES
 ##### Scotch
