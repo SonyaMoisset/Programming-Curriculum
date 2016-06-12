@@ -1,7 +1,7 @@
 # CODECADEMY
-- Skills completed: 14
-- Badges: 192
-- Total points: 2045
+- Skills completed: 1
+- Badges: 
+- Total points: 2151
 
 ## Web Developer Skills
 - Make a Website
