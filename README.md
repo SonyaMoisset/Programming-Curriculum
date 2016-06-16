@@ -1,5 +1,5 @@
 # Full Stack Web Development Personal Curriculum
-Index of resources I am using
+Index of resources I use
 
 ## A. ONLINE ACADEMIES
 
