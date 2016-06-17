@@ -1,7 +1,7 @@
 # Full Stack Web Development Personal Curriculum
 Index of resources I use
 
-## A. ONLINE ACADEMIES
+## A. ONLINE ACADEMIES/PROGRAMS
 
 ### [CODECADEMY](https://github.com/SonyaMoisset/curriculum/blob/master/codecademy.md)
 - Skills completed: 15
