@@ -33,6 +33,7 @@ Index of resources I use
 ### C. OTHER WEBSITES
 ##### Scotch
 ##### Egghead
+##### Thinkster
 
 ## D. BOOKS
 
