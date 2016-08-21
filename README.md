@@ -19,6 +19,8 @@ Index of resources
 
 ### [DASH / GENERAL ASSEMBLY](https://github.com/SonyaMoisset/curriculum/blob/master/dash.md)
 
+### TREEHOUSE
+
 ### B.MOOC
 #### [COURSERA](https://github.com/SonyaMoisset/curriculum/blob/master/coursera.md)
 - Emerging Technologies: From Smartphones to IoT to Big Data Specialization | The Yonsei University
