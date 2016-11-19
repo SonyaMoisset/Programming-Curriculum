@@ -5,9 +5,11 @@
 ##### Getting Started With Python
 - Try Python | 3 Badges
 - Flying Through Python | 5 Badges
+
 ##### Django
 - Try Django | 3 Badges
 - Digging Into Django | 5 Badges
+
 
 ## JavaScript Path
 ### JavaScript Language
