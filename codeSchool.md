@@ -1,11 +1,13 @@
 # CODESCHOOL
 
 ## Python Path
-### Python
-##### Try Python | 3 Badges
-- Get started with Python by calculating how many swallows it takes to carry a coconut.
-- Learn how to store characters in a string to combine, dissect, and slice words.
-- Explore conditionals in Python to see how your program can make important decisions.
+### Python | 16 Badges
+##### Getting Started With Python
+- Try Python | 3 Badges
+- Flying Through Python | 5 Badges
+##### Django
+- Try Django | 3 Badges
+- Digging Into Django | 5 Badges
 
 ## JavaScript Path
 ### JavaScript Language
