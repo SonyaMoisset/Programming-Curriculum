@@ -1,7 +1,6 @@
 # CODESCHOOL
 
-## Python Path
-### Python | 16 Badges
+## Python Path | 16 Badges
 ##### Getting Started With Python
 - Try Python | 3 Badges
 - Flying Through Python | 5 Badges
@@ -11,10 +10,19 @@
 - Digging Into Django | 5 Badges
 
 
-## .NET Path
-### ASP.NET | 8 Badges
+## .NET Path | 8 Badges
+### ASP.NET
 - Try ASP.NET Core | 3 Badges
 - Forging Ahead With ASP.NET Core | 5 Badges
+
+
+## Database Path | 13 Badges
+### SQL
+- Try SQL | 3 Badges
+- The Sequel to SQL | 5 Badges
+
+### NoSQL
+- The Magical Marvels of MongoDB | 5 Badges
 
 
 ## JavaScript Path
@@ -108,9 +116,3 @@ CoffeeScript | 1 Badge
 - Dig into the elements panel, learn how to make changes to the DOM and update styles.
 - New workflows to speed up your development time.
 - Review the DevTools console and learn how to examine exceptions and use timesaving shortcuts.
-
-
-## Database Path
-### NoSQL
-##### The Magical Marvels of MongoDB | 1 Badge
-- Capture the mystical basics of MongoDB and try your hand at inserting and finding documents.
