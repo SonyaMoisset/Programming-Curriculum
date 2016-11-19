@@ -8,13 +8,13 @@
 ##### Django
 - Try Django | 3 Badges
 - Digging Into Django | 5 Badges
-
+-------------
 
 ## .NET Path | 8 Badges
 ### ASP.NET
 - Try ASP.NET Core | 3 Badges
 - Forging Ahead With ASP.NET Core | 5 Badges
-
+-------------
 
 ## Database Path | 13 Badges
 ### SQL
@@ -23,7 +23,7 @@
 
 ### NoSQL
 - The Magical Marvels of MongoDB | 5 Badges
-
+-------------
 
 ## JavaScript Path
 ### JavaScript Language
