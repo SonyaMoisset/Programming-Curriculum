@@ -11,6 +11,12 @@
 - Digging Into Django | 5 Badges
 
 
+## .NET Path
+### ASP.NET | 8 Badges
+- Try ASP.NET Core | 3 Badges
+- Forging Ahead With ASP.NET Core | 5 Badges
+
+
 ## JavaScript Path
 ### JavaScript Language
 ##### JavaScript Road Trip Part I | 3 Badges
