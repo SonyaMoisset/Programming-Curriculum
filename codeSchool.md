@@ -36,6 +36,33 @@
 
 -------------
 
+## HTML/CSS Path | 65 Badges
+### Getting Started With HTML and CSS
+- Front-end Foundations | 5 Badges
+- Front-end Formations | 5 Badge
+
+### Intermediate CSS
+- CSS Cross-Country | 8 Badges
+- Journey Into Mobile | 5 Badges
+- Cracking the Case With Flexbox | 5 Badges
+- Unmasking HTML Emails | 5 Badges
+- Adventures in Web Animations | 4 Badges
+
+### SVG
+- You, Me & SVG | 4 Badges
+
+### CSS Preprocessors
+- Assembling Sass | 7 Badges
+- Assembling Sass Part 2 | 5 Badges
+
+### CSS Frameworks
+- Blasting Off with Bootstrap | 5 Badges
+
+### Design
+- Fundamentals of Design | 3 Badges
+- The Elements of Web Design | 4 Badges
+
+-------------
 
 ## JavaScript Path
 ### JavaScript Language
@@ -80,38 +107,7 @@ CoffeeScript | 1 Badge
 - An overview of variables and functions.
 
 
-## HTML/CSS Path
-### Getting Started With HTML and CSS
-##### Front-end Foundations | 5 Badges
-- Format text content and links with HTML.
 
-##### Front-end Formations | 5 Badge
-- Get an overview of HTML5 and CSS3, and learn which HTML elements have been updated in HTML5.
-
-### Intermediate CSS
-##### CSS Cross-Country | 1 Badge
-- Adding style, selectors, the cascade, and floats.
-
-##### Journey Into Mobile | 1 Badge
-- The mobile web and relative font-sizing.
-
-##### Adventures in Web Animations | 1 Badge
-- Learn how to sweeten up your web app using CSS transitions for color, position, and visibility.
-
-##### Unmasking HTML Emails | 1 Badge
-- Learn the mystifying moves of email client preprocessors and how HTML and CSS is written for them.
-
-### CSS Preprocessors
-##### Assembling Sass | 1 Badge
-- An introduction to Sass, imports, comments, and nesting.
-
-### CSS Frameworks
-##### Blasting Off with Bootstrap | 1 Badge
-- Get your website off the ground by adding the Bootstrap library and getting familiar with the container class.
-
-### Design
-##### Fundamentals of Design | 1 Badge
-- Learn to recognize beautiful and functional type.
 
 
 ## Git Path
