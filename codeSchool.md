@@ -8,14 +8,14 @@
 ##### Django
 - Try Django | 3 Badges
 - Digging Into Django | 5 Badges   
- 
+
 -------------
 
 ## .NET Path | 8 Badges
 ### ASP.NET
 - Try ASP.NET Core | 3 Badges
-- Forging Ahead With ASP.NET Core | 5 Badges 
-   
+- Forging Ahead With ASP.NET Core | 5 Badges
+
 -------------
 
 ## Database Path | 13 Badges
@@ -25,8 +25,17 @@
 
 ### NoSQL
 - The Magical Marvels of MongoDB | 5 Badges  
- 
+
 -------------
+
+## Electives Path | 24 Badges
+- On Track With Golang | 5 Badges
+- Breaking the Ice With Regular Expressions | 5 Badges
+- Try R | 7 Badges
+- Discover DevTools | 7 Badges
+
+-------------
+
 
 ## JavaScript Path
 ### JavaScript Language
@@ -109,13 +118,3 @@ CoffeeScript | 1 Badge
 ### Git
 ##### Discover Git
 - Discover the basics of Git, including how to initialize a repo. Learn how to add, commit, and push your code to GitHub.
-
-
-## Electives Path
-##### Breaking the Ice With Regular Expressions | 1 Badge
-- Learn what regular expressions are, and write your first expression. Discover literals, operators, character sets, modifiers, and metacharacters.
-
-##### Discover DevTools | 3 Badges
-- Dig into the elements panel, learn how to make changes to the DOM and update styles.
-- New workflows to speed up your development time.
-- Review the DevTools console and learn how to examine exceptions and use timesaving shortcuts.
