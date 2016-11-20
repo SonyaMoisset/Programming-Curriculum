@@ -24,16 +24,7 @@
 
 ### Design
 - Fundamentals of Design | 3 Badges
-- The Elements of Web Design | 4 Badges
-
-## Python Path | 16 Badges
-##### Getting Started With Python
-- Try Python | 3 Badges
-- Flying Through Python | 5 Badges
-
-##### Django
-- Try Django | 3 Badges
-- Digging Into Django | 5 Badges   
+- The Elements of Web Design | 4 Badges  
 
 -------------
 
@@ -65,6 +56,25 @@
 ### CoffeeScript
 - CoffeeScript | 6 Badges
 
+-------------
+
+## Ruby Path | 6 Badges
+### Getting Started With Ruby on Rails
+- Try Ruby | 6 Badges
+
+-------------
+
+## Python Path | 16 Badges
+##### Getting Started With Python
+- Try Python | 3 Badges
+- Flying Through Python | 5 Badges
+
+##### Django
+- Try Django | 3 Badges
+- Digging Into Django | 5 Badges
+
+-------------
+
 ## .NET Path | 8 Badges
 ### ASP.NET
 - Try ASP.NET Core | 3 Badges
@@ -72,9 +82,11 @@
 
 -------------
 
-## Ruby Path | 6 Badges
-### Getting Started With Ruby on Rails
-- Try Ruby | 6 Badges
+## Git Path | 14 Badges
+### Git
+- Try Git | 1 Badge
+- Git Real | 7 Badges
+- Git Real 2 | 6 Badges
 
 -------------
 
@@ -93,10 +105,3 @@
 - Breaking the Ice With Regular Expressions | 5 Badges
 - Try R | 7 Badges
 - Discover DevTools | 7 Badges
-
--------------
-
-## Git Path
-### Git
-##### Discover Git
-- Discover the basics of Git, including how to initialize a repo. Learn how to add, commit, and push your code to GitHub.
