@@ -64,51 +64,35 @@
 
 -------------
 
-## JavaScript Path
+## JavaScript Path | 90 Badges
 ### JavaScript Language
-##### JavaScript Road Trip Part I | 3 Badges
-- Learn to manipulate values on the console.
-- Review how to store and use data with variables.
-- Create JS files and source them within HTML code.
-
-##### JavaScript Road Trip Part II | 1 Badge
-- Understand and build loops for repeated code with 'while' and 'for' syntax.
-
-##### JavaScript Road Trip Part III | 1 Badge
-- Learn how to use and manipulate functions as expressions.
-
-##### ES2015: The Shape of JavaScript to Come | 1 Badge
-- Learn about the new types of variable declarations and how they can help with some well-known JavaScript gotchas.
-
-##### JavaScript Best Practices | 1 Badge
-- Discover useful alternate syntax for conditionals and assignment.
+- JavaScript Road Trip Part I | 3 Badges
+- JavaScript Road Trip Part II | 5 Badges
+- JavaScript Road Trip Part III | 5 Badges
+- ES2015: The Shape of JavaScript to Come | 6 Badges
+- JavaScript Best Practices | 4 Badges
 
 ### jQuery
-##### Try jQuery | 2 Badges
-- A gentle introduction to what jQuery is, and what it can do.
-- Search & walk through the DOM with selectors and traversing.
+- Try jQuery | 5 Badges
+- jQuery: The Return Flight | 6 Badges
 
 ### Client-side Frameworks
-##### Shaping up with Angular.js | 4 Badges
-- Get comfortable with expressions by beginning to build a gem store.
-- Use directives to add a gallery and tabs to the gem store.
-- Give the gem store review functionality by using Angular forms.
-- Create custom directives for more organized and maintainable Angular code.
-
-##### Warming Up With Ember.js | 1 Badge<br>
-- Learn how to create an Ember application, set up your first Handlebars template, and meet the Ember Router.
+- Accelerating Through Angular 2 | 5 Badges
+- Power Up With React | 5 Badges
+- Try Ember | 5 Badges
+- Shaping up with Angular.js | 5 Badges
+- Staying Sharp with Angular.js | 4 Badges
+- Anatomy of Backbone.js | 7 Badges
+- Anatomy of Backbone.js Part 2 | 7 Badges
 
 ### Server-side Frameworks
-##### Real-time Web with Node.js | 1 Badge
-- An overview of Node.js, blocking vs. non-blocking code, reading files, issuing requests.
+- Real-time Web with Node.js | 7 Badges
+- Building Blocks of Express.js | 5 Badges
 
 ### CoffeeScript
-CoffeeScript | 1 Badge
-- An overview of variables and functions.
+- CoffeeScript | 6 Badges
 
-
-
-
+-------------
 
 ## Git Path
 ### Git
