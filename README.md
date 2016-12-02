@@ -17,6 +17,9 @@ Index of resources
 ### [FREECODECAMP](https://github.com/SonyaMoisset/curriculum/blob/master/freecodecamp.md)
 - Total points: 1244
 
+### [TREEHOUSE](https://github.com/SonyaMoisset/treehouse/blob/master/README.md)
+- Total Points | 35,059 <=> Total Achievements | 404 badges <=> Courses Completed | 122
+
 ### [UDACITY](https://github.com/SonyaMoisset/curriculum/blob/master/udacity.md)
 
 ### [UDEMY](https://github.com/SonyaMoisset/curriculum/blob/master/udemy.md)
