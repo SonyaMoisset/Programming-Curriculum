@@ -4,9 +4,9 @@ Index of resources
 ## A. ONLINE PROGRAMS
 
 ### [CODECADEMY](https://github.com/SonyaMoisset/curriculum/blob/master/codecademy.md)
-- Skills completed: 18
-- Badges: 228
-- Total points: 2316
+- Skills completed: 19
+- Badges: 246
+- Total points: 2479
 
 ### [CODESCHOOL](https://github.com/SonyaMoisset/curriculum/blob/master/codeSchool.md)
 - 47 Courses Completed 
