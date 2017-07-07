@@ -15,7 +15,7 @@ Index of resources
 - 440,440 Total Points
 
 ### [FREECODECAMP](https://github.com/SonyaMoisset/curriculum/blob/master/freecodecamp.md)
-- Total points: 1244
+- Total points: 1247
 
 ### [TREEHOUSE](https://github.com/SonyaMoisset/treehouse/blob/master/README.md)
 - Total Points | 44,068 <=> Total Achievements | 501 badges <=> Courses Completed | 159
