@@ -18,7 +18,7 @@ Index of resources
 - Total points: 1247
 
 ### [TREEHOUSE](https://github.com/SonyaMoisset/treehouse/blob/master/README.md)
-- Total Points | 66,827 <=> Total Achievements | 801 badges <=> Courses Completed | 282
+- Total Points | 68,962 <=> Total Achievements | 830 badges <=> Courses Completed | 290
 
 ### [UDACITY](https://github.com/SonyaMoisset/curriculum/blob/master/udacity.md)
 
