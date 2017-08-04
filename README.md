@@ -9,10 +9,10 @@ Index of resources
 - Total points: 2479
 
 ### [CODESCHOOL](https://github.com/SonyaMoisset/curriculum/blob/master/codeSchool.md)
-- 47 Courses Completed 
-- 238 Levels Completed 
+- 48 Courses Completed 
+- 241 Levels Completed 
 - 127 Screencasts Watched 
-- 440,440 Total Points
+- 443,690 Total Points
 
 ### [FREECODECAMP](https://github.com/SonyaMoisset/curriculum/blob/master/freecodecamp.md)
 - Total points: 1247
