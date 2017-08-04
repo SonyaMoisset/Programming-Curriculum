@@ -80,6 +80,9 @@
 - Try ASP.NET Core | 3 Badges
 - Forging Ahead With ASP.NET Core | 5 Badges
 
+### C Sharp
+- Learn C Sharp | 3 Badges
+
 -------------
 
 ## Git Path | 14 Badges
