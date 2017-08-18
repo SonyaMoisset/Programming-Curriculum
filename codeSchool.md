@@ -64,9 +64,11 @@
 
 -------------
 
-## PHP Path | 1 Badge
+## PHP Path | 3 Badges
 ### Getting Started With PHP 
-- Try PHP | 1 Badge
+- Try PHP | 3 Badges
+
+-------------
 
 ## Python Path | 16 Badges
 ##### Getting Started With Python
