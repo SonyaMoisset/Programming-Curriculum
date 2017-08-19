@@ -86,14 +86,14 @@
 
 -------------
 
-## .NET Path | 8 Badges
+## .NET Path | 16 Badges
 ### ASP.NET
 - Try ASP.NET Core | 3 Badges
 - Forging Ahead With ASP.NET Core | 5 Badges
 
 ### C Sharp
 - Try C Sharp | 3 Badges
-- Keeping It Classy With C Sharp | 3 Badges
+- Keeping It Classy With C Sharp | 5 Badges
 
 -------------
 
