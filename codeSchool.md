@@ -93,7 +93,7 @@
 
 ### C Sharp
 - Try C Sharp | 3 Badges
-- Keeping It Classy With C Sharp | 2 Badges
+- Keeping It Classy With C Sharp | 3 Badges
 
 -------------
 
