@@ -92,7 +92,8 @@
 - Forging Ahead With ASP.NET Core | 5 Badges
 
 ### C Sharp
-- Learn C Sharp | 3 Badges
+- Try C Sharp | 3 Badges
+- Keeping It Classy With C Sharp | 1 Badge
 
 -------------
 
