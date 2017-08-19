@@ -69,6 +69,9 @@
 - Try PHP | 4 Badges
 - Close Encounters With PHP | 4 Badges
 
+### Laravel
+- Try Laravel | 1 Badge
+
 -------------
 
 ## Python Path | 16 Badges
