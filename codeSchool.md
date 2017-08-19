@@ -64,14 +64,14 @@
 
 -------------
 
-## PHP Path |
+## PHP Path | 16 Badges
 ### Getting Started With PHP 
 - Try PHP | 4 Badges
 - Close Encounters With PHP | 4 Badges
 
 ### Laravel
 - Try Laravel | 3 Badges
-- From Form to Table With Laravel | 3 Badges
+- From Form to Table With Laravel | 5 Badges
 
 -------------
 
