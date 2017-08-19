@@ -67,7 +67,7 @@
 ## PHP Path |
 ### Getting Started With PHP 
 - Try PHP | 4 Badges
-- Close Encounters With PHP | 1 Badge
+- Close Encounters With PHP | 2 Badges
 
 -------------
 
