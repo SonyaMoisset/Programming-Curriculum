@@ -70,7 +70,7 @@
 - Close Encounters With PHP | 4 Badges
 
 ### Laravel
-- Try Laravel | 1 Badge
+- Try Laravel | 3 Badges
 
 -------------
 
