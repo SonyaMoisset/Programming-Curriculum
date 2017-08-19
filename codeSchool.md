@@ -71,6 +71,7 @@
 
 ### Laravel
 - Try Laravel | 3 Badges
+- From Form to Table With Laravel | 1 Badge
 
 -------------
 
