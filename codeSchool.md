@@ -64,9 +64,10 @@
 
 -------------
 
-## PHP Path | 4 Badges
+## PHP Path |
 ### Getting Started With PHP 
 - Try PHP | 4 Badges
+- Close Encounters With PHP | 1 Badge
 
 -------------
 
