@@ -61,6 +61,7 @@
 ## Ruby Path | 6 Badges
 ### Getting Started With Ruby on Rails
 - Try Ruby | 6 Badges
+- Rails for Zombies Redux | 5 Badges
 
 -------------
 
